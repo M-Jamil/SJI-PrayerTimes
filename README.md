@@ -1,4 +1,4 @@
-****SJI PrayerTimes Masjid Display****
+# SJI Prayer Times Masjid Display
 
 For Android devices, please download from Google Playstore:
 
