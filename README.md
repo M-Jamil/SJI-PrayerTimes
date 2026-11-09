@@ -1,4 +1,8 @@
+****SJI PrayerTimes Masjid Display****
 
+For Android devices, please download from Google Playstore:
+
+No Ads, completely free and local (no internet is required once downloaded):
 
 [<img width="300" height="89" alt="google-playstore-icon-en" src="https://github.com/user-attachments/assets/f370565c-9ae9-4e9e-ae31-2a07ee584588" />](https://play.google.com/store/apps/details?id=com.sji.sjiprayertimes&pcampaignid=web_share)
 
