@@ -1,4 +1,8 @@
 
+
+[<img width="300" height="89" alt="google-playstore-icon-en" src="https://github.com/user-attachments/assets/f370565c-9ae9-4e9e-ae31-2a07ee584588" />](https://play.google.com/store/apps/details?id=com.sji.sjiprayertimes&pcampaignid=web_share)
+
+
 **Mobile App View**
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b6d5a59a-2a44-4f7d-88c2-2c0bb537a8cc" />
 
